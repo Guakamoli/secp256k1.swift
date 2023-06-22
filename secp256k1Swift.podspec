@@ -40,7 +40,6 @@ Pod::Spec.new do |s|
     'Sources/secp256k1Swift/Utility.swift',
     'Sources/secp256k1Swift/Zeroization.swift'
   s.dependency 'secp256k1Wrapper', '~> 0.0.5'
-  s.dependency 'swift-crypto'
 
 end
 
